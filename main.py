@@ -15,7 +15,7 @@ terrible_movies = [
 ]
 
 watch_list = []
-
+ 
 
 @app.route("/crossoff", methods=['POST'])
 def crossoff_movie():
